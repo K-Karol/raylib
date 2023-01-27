@@ -1,3 +1,10 @@
+[Bb]in/
+[Bb]in-[Oo]bj/
+
+*.vcxproj
+*.vcxproj.filters
+
+
 # Ignore generated files
 # ...
 
